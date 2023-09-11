@@ -1,3 +1,18 @@
+
+## Screen Shots
+
+![screencapture-localhost-4321-hotle-public-dashboard-index-2023-09-11-19_18_40](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/baf09334-ee9f-4eb9-b70a-80c909fb86fd)
+![screencapture-localhost-4321-hotle-public-rooms-add-2023-09-11-19_26_36](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/1d14a614-d46c-4e64-8b26-c26269131a88)
+![screencapture-localhost-4321-hotle-public-bookings-add-2023-09-11-19_26_18](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/55542817-aaf0-4982-882a-a74db906fb46)
+![screencapture-localhost-4321-hotle-public-rooms-price-add-2023-09-11-19_26_06](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/db57a90b-5702-4157-9f81-bfa1f5e3e868)
+![Screenshot 2023-09-11 192556](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/add0f150-20c4-4b9f-a30f-df1466ac4799)
+![Screenshot 2023-09-11 192529](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/7fd20557-3791-4b87-9816-d9726268d3c2)
+![Screenshot 2023-09-11 192456](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/bbbb2ae0-8a40-4851-b393-027a5417b3fb)
+![Screenshot 2023-09-11 192427](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/96332935-1f3a-4219-9815-96023e9b8c66)
+![Screenshot 2023-09-11 192401](https://github.com/Ahmed-Humishan/Hotel-System-Management/assets/111582706/778ac953-43b6-4e3a-a7ae-c5398f46071e)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
